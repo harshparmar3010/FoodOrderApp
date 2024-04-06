@@ -1,0 +1,18 @@
+* {
+	font-family: "Open Sans", sans-serif;
+}
+.side-panel {
+	position: fixed;
+	top: 0;
+	left: 0;
+	height: 100%;
+	background-color: white;
+	box-shadow: 10px 0px 15px -3px rgba(0, 0, 0, 0.1);
+	margin-top: 56px;
+	z-index:10;
+}
+
+.list-group-item:hover {
+	background-color: #F1F3FF;
+	color: #727DEC;
+}
